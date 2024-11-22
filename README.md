@@ -13,3 +13,5 @@ The quiz includes multiple-choice questions, and the user's answers are logged t
 - Shows a message after completing the quiz
 - Written in Python using Tkinter for GUI and requests to fetch jokes
 
+# midterm
+# midterm1
